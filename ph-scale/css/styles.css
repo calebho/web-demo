@@ -1,0 +1,27 @@
+* {
+  font-family: Arial, Verdana, sans-serif;
+  background-color: Gray;
+  color: White;
+}
+  
+h1 {
+  color: Gray;
+  background-color: LightGray;
+  padding: 10px;
+}
+
+p {
+  padding: 10px;
+}
+
+.fourteen {
+  background-color: DarkBlue;
+}
+
+.seven {
+  background-color: LightGreen;
+}
+
+.one {
+  background-color: Magenta;
+}
